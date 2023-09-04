@@ -1,0 +1,2 @@
+#!/bin/bash
+egrep -c 'bin' /etc/passwd11;rgb:0000/0000/0000
